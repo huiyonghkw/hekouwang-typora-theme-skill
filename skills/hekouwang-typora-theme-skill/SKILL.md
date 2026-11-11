@@ -3,30 +3,23 @@ name: hekouwang-typora-theme-skill
 slug: hekouwang-typora-theme-skill
 displayName: Typora 主题工程（hekouwang）
 summary: Typora theme engineering / CJK long-form markdown — tokens.json CSS build, color sampling, contrast/layout audits, font probe. Free V2 light+dark; paid V1/V2 Pro/V3–V6.
-license: MIT
+license: Proprietary
 homepage: https://github.com/huiyonghkw/hekouwang-typora-theme
 version: 1.6.1
-description: >
-  会勇禾口王 · Typora 主题工程 Skill。维护「hekouwang」主题（中文长文浅色 + 深色），
-  并提供一套可复用的主题工程方法：CSS 由 tokens.json
-  生成而非手写、构建时强制零 !important / 零 px 字号、从参照截图采样真实色值（而不是猜
-  配色）、用 fallback 基准探针验证字体是否真的上屏。
-  当需要：① 改 Typora 主题的配色/字号/行高/紧凑度/纸感；② 装主题或排查「改了 CSS 但
-  Typora 里没变化 / 字体没生效 / 主题菜单多出奇怪条目」；③ 按某个 App 或网站的观感做
-  一套新主题（采样它的真实色值）；④ 加深色版或新变体；⑤ 把主题发布到 theme.typora.io
-  时使用。
-  触发词：Typora 主题 / typora theme / 改主题配色 / 主题不生效 / 换肤 / Markdown 编辑器主题 /
-  hekouwang 主题 / 主题字体没上屏 / 采样配色 / 做一套主题 / 提交 Typora 主题库。
+description: "Typora 主题工程：改配色字号行高、tokens 生成 CSS、采样真实色值、排查主题不生效、发布主题库"
 allowed-tools: Bash, Read, Write, Edit, Glob, Grep
 ---
 
 # Typora 主题工程
 
-本 skill 真源在仓库可见目录 `skills/hekouwang-typora-theme/`（本文件所在目录）。
-`.claude/skills/hekouwang-typora-theme` 与 `.cursor/skills/hekouwang-typora-theme`
+本 skill 真源在仓库可见目录 `skills/hekouwang-typora-theme-skill/`（本文件所在目录）。
+`.claude/skills/hekouwang-typora-theme-skill` 与 `.cursor/skills/hekouwang-typora-theme-skill`
 是指向本目录的符号链接，方便各端自动发现。
 **放在 `skills/` 即表示可当项目 skill 安装 / 使用**：clone 打开本仓即可加载，不必再 clone 单独 skill 仓库。
 工作区是仓库根的 `scripts/`、`theme/`、`demo/`。
+
+**授权：** 本 skill 为付费个人授权，禁止再分发，见 [LICENSE.txt](LICENSE.txt)。
+公开仓内的免费主题与构建 / 校验脚本仍是 MIT（见仓库根 `LICENSE`）。
 
 > **从 ClawHub / SkillHub 安装的**：平台包只含本 skill 目录，不含 `scripts/` 等工作区。
 > 先 `git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git`，下文所有命令都在该仓库根目录执行。
@@ -125,7 +118,7 @@ python3 scripts/verify_render.py --css theme/hekouwang.css \
 ## 目录
 
 ```
-skills/hekouwang-typora-theme/   本 skill 真源（SKILL.md + references/）
+skills/hekouwang-typora-theme-skill/   本 skill 真源（SKILL.md + references/）
 .claude/skills/… · .cursor/skills/…   → 软链到上面，供工具发现
 scripts/tokens.json      阅读指标真源（_presets.work）+ 字体栈 + 透明度阶
 scripts/palettes.json    免费 V2 配色真源（color / dark / paper / shape / syntax）

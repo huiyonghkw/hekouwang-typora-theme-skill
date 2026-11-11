@@ -168,6 +168,7 @@ python3 scripts/verify_export_pdf.py
 
 - 免费 V2（`hekouwang.css` / `hekouwang-dark.css`）及脚本使用 [MIT License](LICENSE)；Inter 使用 SIL OFL 1.1。
 - 付费主题包仅供个人使用，以包内 `LICENSE-PRO.txt` 为准，请勿二次分发。
+- 主题工程 Skill（`skills/hekouwang-typora-theme-skill/`）为付费个人授权，以其 `LICENSE.txt` 为准，禁止再分发。
 - 本仓库不包含、不分发 Anthropic 字体；可选本机字体流程仅供个人使用。
 
 这是独立作品，与 Anthropic PBC 无从属关系；“Claude”与“Anthropic”为 Anthropic PBC 商标。

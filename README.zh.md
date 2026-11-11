@@ -244,13 +244,14 @@ Gallery 里已有 [Claude Theme](https://theme.typora.io/theme/Claude-Theme/)，
 
 **真源入口：**
 
-- [`skills/hekouwang-typora-theme/SKILL.md`](skills/hekouwang-typora-theme/SKILL.md)
+- [`skills/hekouwang-typora-theme-skill/SKILL.md`](skills/hekouwang-typora-theme-skill/SKILL.md)
 
-`.claude/skills/` 与 `.cursor/skills/` 是指向该目录的符号链接，供 Claude Code / Cursor 自动发现。clone 后**无需再单独安装 skill**。
+`.claude/skills/` 与 `.cursor/skills/` 是指向该目录的符号链接，供 Claude Code / Cursor 自动发现。clone 后可直接加载，正式使用需持有效的付费个人授权（见 [LICENSE.txt](skills/hekouwang-typora-theme-skill/LICENSE.txt)）。
 
 ## 授权
 
 - **免费 V2**（`hekouwang.css` / Dark）与脚本：MIT，见 [LICENSE](LICENSE)。Inter 为 SIL OFL 1.1。
 - **付费主题包**：个人使用，见包内 [LICENSE-PRO.txt](LICENSE-PRO.txt)；请勿二次分发。
+- **主题工程 Skill**：付费个人授权，见 [LICENSE.txt](skills/hekouwang-typora-theme-skill/LICENSE.txt)；禁止再分发。ClawHub 上 2026-11-11 前发布的历史副本按平台规则为 MIT-0。
 
 受平静桌面阅读体验启发的独立作品，与 Anthropic PBC 无从属关系。"Claude" 与 "Anthropic" 是 Anthropic PBC 的商标。

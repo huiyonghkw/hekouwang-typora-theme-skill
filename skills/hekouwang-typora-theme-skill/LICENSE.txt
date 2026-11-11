@@ -1,0 +1,30 @@
+hekouwang Typora Theme Engineering Skill — Paid Personal License
+================================================================
+
+The skill files in this directory (SKILL.md, references/, skill-card.md,
+CHANGELOG.md and anything shipped with them) are licensed, not sold.
+A paid, personal, non-transferable license is granted to the purchaser.
+
+You may:
+  - Use the skill with your own AI agents on devices you personally control
+  - Adapt its instructions for your own themes and writing projects
+  - Keep local backups of your licensed copy
+
+You may not:
+  - Redistribute, resell, sublicense, publish or share the files, in whole or
+    in part, whether free or paid, including on any skill registry or
+    marketplace
+  - Present the skill as your own work, course, template or product
+  - Include it in a competing commercial product or a paid bundle
+  - Share a licensed copy with other people or teams
+
+Notes:
+  - Copies published through ClawHub before 2026-11-11 were released under
+    that platform's MIT-0 terms; those copies stay MIT-0.
+  - The free Typora themes and the build / verification scripts remain MIT.
+    See LICENSE at the repository root.
+  - This license covers the skill text and workflow only. It grants no rights
+    to the paid theme pack, which has its own LICENSE-PRO.txt.
+
+Purchase, license delivery, or questions:
+  WeChat hekouwang (note: Typora skill) · huiyonghkw@gmail.com

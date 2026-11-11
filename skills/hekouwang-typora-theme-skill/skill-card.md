@@ -2,7 +2,8 @@
 
 Maintains the hekouwang light and dark Typora themes and guides agents through token-driven CSS generation, sampled color matching, font fallback verification, installation, troubleshooting, and Typora theme publishing.
 
-This skill is ready for commercial/non-commercial use.
+This skill is distributed under a paid personal license. Commercial, team or
+client-facing use requires a purchased license; see `LICENSE.txt`.
 
 ## Publisher:
 
@@ -10,7 +11,9 @@ This skill is ready for commercial/non-commercial use.
 
 ### License/Terms of Use:
 
-MIT (repository license; ClawHub lists registry copies as MIT-0)
+Proprietary — paid personal license (`LICENSE.txt`). Copies previously
+published to ClawHub were released under that platform's MIT-0 terms and
+remain MIT-0.
 
 ## Use Case:
 

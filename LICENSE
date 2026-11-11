@@ -22,6 +22,16 @@ SOFTWARE.
 
 ---
 
+NOTE ON SCOPE
+
+The MIT license above covers the Typora themes, the build and verification
+scripts, the demo files and the documentation in this repository, except
+where a directory carries its own license file. The skill in
+`skills/hekouwang-typora-theme-skill/` is licensed separately for paying
+users; see `skills/hekouwang-typora-theme-skill/LICENSE.txt`.
+
+---
+
 NOTE ON BUNDLED FONTS
 
 The `theme/hekouwang/fonts/` directory contains Inter, licensed under the
