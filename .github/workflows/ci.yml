@@ -20,6 +20,10 @@ jobs:
       - name: 构建全部主题（含真源边界检查与对比度审计）
         run: python3 scripts/build.py --tier free
 
+      - name: 在线体验页资源与 theme/ 一致
+        # docs/live/ 直接引用构建产物；不同步 = 演示页悄悄展示旧 CSS。
+        run: python3 scripts/sync_preview.py --check
+
       - name: 对比度单测
         run: python3 scripts/test_contrast_check.py
 

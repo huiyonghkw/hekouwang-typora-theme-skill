@@ -4,7 +4,7 @@
 
 这是为中文长文设计的 Typora 主题：一篇文章从开头读到结尾，标题、段落、代码、表格和图片应该保持同一种安静而清晰的节奏，而不是每个组件都在抢注意力。
 
-**体验站：** [huiyonghkw.github.io/hekouwang-typora-theme](https://huiyonghkw.github.io/hekouwang-typora-theme/)　·　[2.0.2 升级说明](UPGRADE.md)　·　[English](README.en.md)　·　[详细中文技术说明](README.zh.md)
+**体验站：** [huiyonghkw.github.io/hekouwang-typora-theme](https://huiyonghkw.github.io/hekouwang-typora-theme/)　·　**在线体验：** [真 CSS 渲染，可切浅深色 / 字号 / 列宽](https://huiyonghkw.github.io/hekouwang-typora-theme/live/)　·　[2.0.2 升级说明](UPGRADE.md)　·　[English](README.en.md)　·　[详细中文技术说明](README.zh.md)
 
 以下为 **2.0.1 真机截图**（macOS Typora，2026-10-21 重拍）。2.0.2 只修了折叠侧栏后的底色，侧栏展开时的纸面与配色与截图完全一致，因此截图仍标注 2.0.1。
 
