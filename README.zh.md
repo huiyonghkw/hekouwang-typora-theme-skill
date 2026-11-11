@@ -1,6 +1,6 @@
 # hekouwang
 
-**体验站：** [huiyonghkw.github.io/hekouwang-typora-theme](https://huiyonghkw.github.io/hekouwang-typora-theme/)
+**体验站：** [huiyonghkw.github.io/hekouwang-typora-theme-skill](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/)
 
 [2.0.2 升级说明](UPGRADE.md) · [English](README.en.md)
 
@@ -15,9 +15,9 @@
 | **免费 · MIT** | **Hekouwang** / **Hekouwang Dark** | = skill **V2 编辑**（纯白纸面、暖灰外框、墨色标题、墨绿点缀、直角纸卡；深色墨玉黑）。Gallery 入口也是这一档。公开仓只发这一档。 |
 | **付费包 · ¥9.9** | **Hekouwang V1 / V2 Pro / V3–V6**（各含 Dark） | 石墨青绿 / 典藏编辑 / 海军蓝财经 / 冰蓝玻璃 / 紫晶电青 HUD / 李紫焰彩，六套浅深共 12 个 CSS；**色板与工艺不进公开仓**，只随 zip 私发 |
 
-**怎么买：** 落地页购买区（微信/支付宝 · 微信 `hekouwang`，备注「Typora主题」）→ 我私发 zip → 按落地页 [装付费包](https://huiyonghkw.github.io/hekouwang-typora-theme/#unlock) 一键装进 Typora。
+**怎么买：** 落地页购买区（微信/支付宝 · 微信 `hekouwang`，备注「Typora主题」）→ 我私发 zip → 按落地页 [装付费包](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#unlock) 一键装进 Typora。
 
-→ [huiyonghkw.github.io/hekouwang-typora-theme/#buy](https://huiyonghkw.github.io/hekouwang-typora-theme/#buy)
+→ [huiyonghkw.github.io/hekouwang-typora-theme-skill/#buy](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#buy)
 
 免费色板在 `scripts/palettes.json`；付费色板不进公开仓。阅读指标在 `scripts/tokens.json`。公开仓重建：`python3 scripts/build.py`（默认只出免费档）。
 
@@ -53,7 +53,7 @@ python3 scripts/verify_render.py --css theme/hekouwang.css --fonts "Hekouwang Sa
 
 六套已同步 **2.0.1 视觉升级**：色相保留，题头、引用、代码和表格按各套重做；下面截图即 2.0.1 真机效果。
 
-以下全部是 **2.0.1 最新 CSS 在 macOS Typora 中的真机截图**；点击图片可查看原图。[体验站可并排对比](https://huiyonghkw.github.io/hekouwang-typora-theme/#compare-shots)。
+以下全部是 **2.0.1 最新 CSS 在 macOS Typora 中的真机截图**；点击图片可查看原图。[体验站可并排对比](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#compare-shots)。
 
 | 付费主题 | 浅色 | 深色 |
 |---|---|---|
@@ -142,8 +142,8 @@ Anthropic Sans 实测 **581 字符、CJK 汉字 0 个**（连中文标点都没�
 ## 安装（免费 V2）
 
 ```bash
-git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git
-cd hekouwang-typora-theme
+git clone https://github.com/huiyonghkw/hekouwang-typora-theme-skill.git
+cd hekouwang-typora-theme-skill
 ./scripts/install.sh
 ```
 
@@ -158,8 +158,8 @@ cd hekouwang-typora-theme
 在 PowerShell 中运行：
 
 ```powershell
-git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git
-cd hekouwang-typora-theme
+git clone https://github.com/huiyonghkw/hekouwang-typora-theme-skill.git
+cd hekouwang-typora-theme-skill
 .\scripts\install-windows.ps1
 ```
 
@@ -175,7 +175,7 @@ cd hekouwang-typora-theme
 
 ### 付费包（V1 / V2 Pro / V3–V6）
 
-付款与交付只写在落地页（换渠道不用改脚本）：[#buy](https://huiyonghkw.github.io/hekouwang-typora-theme/#buy)。
+付款与交付只写在落地页（换渠道不用改脚本）：[#buy](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#buy)。
 
 收到 zip 后：
 

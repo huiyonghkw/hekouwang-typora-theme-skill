@@ -1,6 +1,6 @@
 # 升级说明 · 2.0.2
 
-发布日期：2026-10-21 · [返回主题首页](README.md) · [查看全部浅色与深色预览](https://huiyonghkw.github.io/hekouwang-typora-theme/#compare-shots)
+发布日期：2026-10-21 · [返回主题首页](README.md) · [查看全部浅色与深色预览](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#compare-shots)
 
 ## 2.0.2 · 修「折叠侧栏后整页发白」
 
@@ -92,7 +92,7 @@ git pull
 ./scripts/unlock.sh ~/Downloads/hekouwang-typora-theme-pack-v2.0.2-YYYYMMDD.zip
 ```
 
-也可以解压付费包，在包内执行 `./unlock.sh`。安装器会检查 zip 完整性和 12 份付费 CSS，并直接覆盖同名旧文件。菜单名与 1.2.0 相同。购买、交付与图文安装说明见 [体验站](https://huiyonghkw.github.io/hekouwang-typora-theme/#unlock)。
+也可以解压付费包，在包内执行 `./unlock.sh`。安装器会检查 zip 完整性和 12 份付费 CSS，并直接覆盖同名旧文件。菜单名与 1.2.0 相同。购买、交付与图文安装说明见 [体验站](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#unlock)。
 
 ### 付费包 · Windows
 

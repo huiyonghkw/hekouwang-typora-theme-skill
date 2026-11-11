@@ -4,7 +4,7 @@
 
 这是为中文长文设计的 Typora 主题：一篇文章从开头读到结尾，标题、段落、代码、表格和图片应该保持同一种安静而清晰的节奏，而不是每个组件都在抢注意力。
 
-**体验站：** [huiyonghkw.github.io/hekouwang-typora-theme](https://huiyonghkw.github.io/hekouwang-typora-theme/)　·　**在线体验：** [真 CSS 渲染，可切浅深色 / 字号 / 列宽](https://huiyonghkw.github.io/hekouwang-typora-theme/live/)　·　[2.0.2 升级说明](UPGRADE.md)　·　[English](README.en.md)　·　[详细中文技术说明](README.zh.md)
+**体验站：** [huiyonghkw.github.io/hekouwang-typora-theme-skill](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/)　·　**在线体验：** [真 CSS 渲染，可切浅深色 / 字号 / 列宽](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/live/)　·　[2.0.2 升级说明](UPGRADE.md)　·　[English](README.en.md)　·　[详细中文技术说明](README.zh.md)
 
 以下为 **2.0.1 真机截图**（macOS Typora，2026-10-21 重拍）。2.0.2 只修了折叠侧栏后的底色，侧栏展开时的纸面与配色与截图完全一致，因此截图仍标注 2.0.1。
 
@@ -44,7 +44,7 @@
 
 免费版已经是完整的长文阅读主题，并不以功能阉割换购买。付费包提供六套独立的色彩、材质与标题工艺，和免费版共享同一套阅读指标。付费 V2 Pro 是新增的典藏编辑风格，与免费 V2 的 CSS 和菜单项均分开。
 
-购买与付费包安装说明在体验站的 [购买页](https://huiyonghkw.github.io/hekouwang-typora-theme/#buy)。
+购买与付费包安装说明在体验站的 [购买页](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#buy)。
 
 ## 安装：两分钟开始
 
@@ -53,8 +53,8 @@
 ### macOS
 
 ```bash
-git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git
-cd hekouwang-typora-theme
+git clone https://github.com/huiyonghkw/hekouwang-typora-theme-skill.git
+cd hekouwang-typora-theme-skill
 ./scripts/install.sh
 ```
 
@@ -63,8 +63,8 @@ cd hekouwang-typora-theme
 在 PowerShell 中运行：
 
 ```powershell
-git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git
-cd hekouwang-typora-theme
+git clone https://github.com/huiyonghkw/hekouwang-typora-theme-skill.git
+cd hekouwang-typora-theme-skill
 .\scripts\install-windows.ps1
 ```
 
@@ -114,7 +114,7 @@ python3 scripts/verify_render.py \
 
 付费包包含六套真正独立的视觉系统，每套各有浅色与深色。它们共享免费版的长文排版指标，但纸面、外壳、标题、引用、代码块和表格都有自己的处理；各套的视觉方向见上方[选择你的版本](#选择你的版本)。
 
-下面展示 **2.0.1 最新 CSS 在 macOS Typora 中的真机截图**，点击图片可查看原图。免费 V2 仍以 **Hekouwang / Hekouwang Dark** 单独提供。也可以在[体验站对比全部主题](https://huiyonghkw.github.io/hekouwang-typora-theme/#compare-shots)。
+下面展示 **2.0.1 最新 CSS 在 macOS Typora 中的真机截图**，点击图片可查看原图。免费 V2 仍以 **Hekouwang / Hekouwang Dark** 单独提供。也可以在[体验站对比全部主题](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#compare-shots)。
 
 ### V1 · 石墨青绿
 

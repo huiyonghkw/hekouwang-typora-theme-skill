@@ -19,7 +19,7 @@ I wrote this paragraph to check long-form breathing. Side-by-side with a referen
 
 Here is a line with `variable font`, the opsz axis, and weights from 300→800 — watch the join between Latin and 苹方. Numbers matter too: 2026, 1,247 runs, 99.8% share, root `font-size: 16px`.
 
-Inline styles in one pass: **bold for real weight**, *italic / soft emphasis*, ~~strikethrough~~, `inline code`, [a link](https://github.com/huiyonghkw/hekouwang-typora-theme), and ==highlight==.
+Inline styles in one pass: **bold for real weight**, *italic / soft emphasis*, ~~strikethrough~~, `inline code`, [a link](https://github.com/huiyonghkw/hekouwang-typora-theme-skill), and ==highlight==.
 
 Captions should be small muted text — **no** per-character emphasis dots:
 

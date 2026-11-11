@@ -2,7 +2,7 @@
 
 Hekouwang turns Markdown into a calm, coherent reading surface for long-form writing—especially mixed CJK and Latin documents.
 
-[中文产品说明](README.md) · [Live site](https://huiyonghkw.github.io/hekouwang-typora-theme/) · [Technical notes](README.zh.md)
+[中文产品说明](README.md) · [Live site](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/) · [Technical notes](README.zh.md)
 
 ## What it is
 
@@ -27,16 +27,16 @@ Captured in Typora on macOS with the 2.0.1 CSS (re-shot on 2026-10-21). 2.0.2 on
 macOS:
 
 ```bash
-git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git
-cd hekouwang-typora-theme
+git clone https://github.com/huiyonghkw/hekouwang-typora-theme-skill.git
+cd hekouwang-typora-theme-skill
 ./scripts/install.sh
 ```
 
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git
-cd hekouwang-typora-theme
+git clone https://github.com/huiyonghkw/hekouwang-typora-theme-skill.git
+cd hekouwang-typora-theme-skill
 .\scripts\install-windows.ps1
 ```
 
@@ -57,7 +57,7 @@ Paid V2 Pro is a walnut and bronze editorial design with warm paper, double-line
 
 ### All six paid themes
 
-These are **Typora screenshots on macOS using the latest 2.0.1 CSS**. Open an image for the full-size view. You can also [compare all light/dark pairs on the live site](https://huiyonghkw.github.io/hekouwang-typora-theme/#compare-shots).
+These are **Typora screenshots on macOS using the latest 2.0.1 CSS**. Open an image for the full-size view. You can also [compare all light/dark pairs on the live site](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#compare-shots).
 
 | Paid theme | Light | Dark |
 |---|---|---|
@@ -68,7 +68,7 @@ These are **Typora screenshots on macOS using the latest 2.0.1 CSS**. Open an im
 | **V5 · HUD** | ![V5 light preview](docs/previews/v5-light.webp) | ![V5 dark preview](docs/previews/v5-dark.webp) |
 | **V6 · Ember** | ![V6 light preview](docs/previews/v6-light.webp) | ![V6 dark preview](docs/previews/v6-dark.webp) |
 
-See the [live site](https://huiyonghkw.github.io/hekouwang-typora-theme/#buy) for the paid pack and the [2.0.2 upgrade guide](UPGRADE.md) for installation steps. The Chinese README is the canonical product page; see [README.zh.md](README.zh.md) for engineering detail.
+See the [live site](https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#buy) for the paid pack and the [2.0.2 upgrade guide](UPGRADE.md) for installation steps. The Chinese README is the canonical product page; see [README.zh.md](README.zh.md) for engineering detail.
 
 ## License
 

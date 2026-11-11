@@ -29,7 +29,7 @@ if [ -f "$SCRIPT_DIR/links.sh" ]; then
 elif [ -f "$SCRIPT_DIR/scripts/links.sh" ]; then
   . "$SCRIPT_DIR/scripts/links.sh"
 else
-  HKW_URL_BUY="https://huiyonghkw.github.io/hekouwang-typora-theme/#buy"
+  HKW_URL_BUY="https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#buy"
 fi
 
 THEME_DIR="$HOME/Library/Application Support/abnerworks.Typora/themes"

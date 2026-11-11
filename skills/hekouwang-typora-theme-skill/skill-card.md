@@ -40,7 +40,7 @@ Mitigation: Follow the documented build, install, full Typora restart, color ver
 - [Typora theme specification and selector map](artifact/references/typora-spec.md)
 - [Font strategy and licensing boundaries](artifact/references/fonts.md)
 - [Theme workflow](artifact/references/workflow.md)
-- [Project homepage from ClawHub metadata](https://github.com/huiyonghkw/hekouwang-typora-theme)
+- [Project homepage from ClawHub metadata](https://github.com/huiyonghkw/hekouwang-typora-theme-skill)
 - [Typora custom theme documentation](https://theme.typora.io/doc/Write-Custom-Theme/)
 
 ## Skill Output:

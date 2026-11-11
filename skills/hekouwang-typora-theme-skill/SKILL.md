@@ -4,7 +4,7 @@ slug: hekouwang-typora-theme-skill
 displayName: Typora 主题工程（hekouwang）
 summary: Typora theme engineering / CJK long-form markdown — tokens.json CSS build, color sampling, contrast/layout audits, font probe. Free V2 light+dark; paid V1/V2 Pro/V3–V6.
 license: Proprietary
-homepage: https://github.com/huiyonghkw/hekouwang-typora-theme
+homepage: https://github.com/huiyonghkw/hekouwang-typora-theme-skill
 version: 1.6.1
 description: "Typora 主题工程：改配色字号行高、tokens 生成 CSS、采样真实色值、排查主题不生效、发布主题库"
 allowed-tools: Bash, Read, Write, Edit, Glob, Grep
@@ -22,7 +22,7 @@ allowed-tools: Bash, Read, Write, Edit, Glob, Grep
 公开仓内的免费主题与构建 / 校验脚本仍是 MIT（见仓库根 `LICENSE`）。
 
 > **从 ClawHub / SkillHub 安装的**：平台包只含本 skill 目录，不含 `scripts/` 等工作区。
-> 先 `git clone https://github.com/huiyonghkw/hekouwang-typora-theme.git`，下文所有命令都在该仓库根目录执行。
+> 先 `git clone https://github.com/huiyonghkw/hekouwang-typora-theme-skill.git`，下文所有命令都在该仓库根目录执行。
 
 ## 30 秒速览
 
@@ -33,7 +33,7 @@ allowed-tools: Bash, Read, Write, Edit, Glob, Grep
   - 改**排版**（行高 / 字号 / 段距 / 栏宽 / 断点）→ `scripts/tokens.json` 的 `_presets.work`
   - 改**配色 / 纸感 / 圆角 / 语法色** → `scripts/palettes.json`
   - 付费六套的配色 → `scripts/palettes.paid.json`
-- **开源仓库**：https://github.com/huiyonghkw/hekouwang-typora-theme （免费 V2 · MIT；付费见落地页 `#buy`）
+- **开源仓库**：https://github.com/huiyonghkw/hekouwang-typora-theme-skill （免费 V2 · MIT；付费见落地页 `#buy`）
 
 ## 常用命令
 

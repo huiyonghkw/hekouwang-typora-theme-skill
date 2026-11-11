@@ -76,7 +76,7 @@ hekouwang Typora 主题包 · V1 / V2 Pro / V3–V6（各含 Dark）
 怎么装（macOS）
 --------------
 完整图文手册（推荐先看）：
-  https://huiyonghkw.github.io/hekouwang-typora-theme/#unlock
+  https://huiyonghkw.github.io/hekouwang-typora-theme-skill/#unlock
 
 1. 若还没装免费默认：先 clone 公开仓，跑 ./scripts/install.sh
    $HKW_URL_REPO
